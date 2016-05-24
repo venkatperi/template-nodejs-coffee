@@ -1,0 +1,1 @@
+/usr/local/bin/grunt --gruntfile /Users/venkat/proj/repos/template-nodejs-coffee/Gruntfile.coffee --cwd `pwd` $@
